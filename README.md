@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-A small portfolio showcasing some of my favorite projects over the last decade of working in DS.
+A case study of forecasting and optimization problems using Walmart's M5 dataset.

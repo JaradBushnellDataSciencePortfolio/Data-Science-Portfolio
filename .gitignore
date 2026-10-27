@@ -1,3 +1,4 @@
 /m5-forecasting-accuracy/Raw Data/
 **/.ipynb_checkpoints/
 .DS_Store
+*.csv

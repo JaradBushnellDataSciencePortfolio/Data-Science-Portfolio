@@ -1,2 +1,2 @@
 # Data-Science-Portfolio
-A case study of forecasting and optimization problems using Walmart's M5 dataset.
+A small portfolio of example analyses showcasing my applied knowledge of data science, from classical stats to advanced ML and beyond.

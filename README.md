@@ -6,6 +6,8 @@ Welcome to my portfolio of example analyses, showcasing my applied knowledge of 
 
 In my personal time, I enjoy reading, writing, laughing with my family, and learning the natural sciences such as birds and astronomy. 
 
-I'm also an internationally published poet and a domestic music-maker, with my first book of poetry scheduled for publication in Feb 2027:
-https://jaradbushnellpoetry.com/
+I'm also an internationally published poet and a domestic music-maker, with my first book of poetry scheduled for publication in Feb 2027:  
+https://jaradbushnellpoetry.com/  
 https://julesverse.bandcamp.com/
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/jaradtbushnell/

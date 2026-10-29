@@ -7,4 +7,4 @@ https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
 02. Simulation and analysis
 03. Log-demand, GLM, The Calculus
 04. Simulation, AB testing, DiD
-05. LSTM, k-means, PCA, factor analysis, association rule learning
+05. LSTM, GRU, CNN, k-means, PCA, factor analysis, association rule learning
